@@ -1,1 +1,1 @@
-# alam_clock
+# Simple alam_clock using python
